@@ -15,6 +15,7 @@
 ## 💼 Experiencia
 
 **🔹 TyM** · _Nov. 2026 - Actualidad_
+Desarrollo de plataformas web y aplicaciones móviles multiplataforma.
 
 **🔹 Nomulabs** · _Nov. 2025 - Nov. 2026_
 Desarrollo de plataformas web y apps móviles para Android e iOS.
